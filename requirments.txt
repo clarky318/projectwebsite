@@ -1,0 +1,4 @@
+Flask
+openai
+language-tool-python
+gtts
